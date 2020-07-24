@@ -16,4 +16,4 @@
     '\/__//__/  \/___/  \/_/  \/____/\/__,_ /
 ```
 ## Japanese food ingredient labeling
-<img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Food-ingredient-labeling-ja.png" width="280px">    <img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Food-ingredient-labeling-en.png" width="230px">
+<img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Food-ingredient-labeling-ja.png" width="230px">     <img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Food-ingredient-labeling-en.png" width="250px">
