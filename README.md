@@ -9,4 +9,4 @@
     
 ```
 ## Japanese food ingredient labeling
-<img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Food-ingredient-labeling-ja.png" width="400px">        <img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Food-ingredient-labeling-en.png" width="400px">
+<img src="https://raw.githubusercontent.com/mira-tech/mira-tech/master/Japanese-food-ingredient-labeling.png" width="400px">
